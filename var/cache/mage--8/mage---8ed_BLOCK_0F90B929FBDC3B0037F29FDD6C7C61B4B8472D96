@@ -1,0 +1,16 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1672861463;s:6:"expire";i:1672865063;s:4:"tags";s:81:"8ed_BLOCK_HTML,8ed_CAT_C,8ed_CAT_C_3,8ed_CAT_C_4,8ed_CAT_C_5,8ed_CAT_C_6,8ed_MAGE";}
+a:2:{s:8:"policies";a:1:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:5:{s:44:"XK9+Ft4p7Rp4ErvGmDt8GG1RIVcF019hez95yIFzAds=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"gzkmWEU6tvXSr4DgYD0zP6oyk7sLk9joPC5VioaC4Qk=";s:6:"sha256";}}}s:4:"html";s:2638:"
+<nav class="navigation" role="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li class="level0 level-top ">
+                <a class="level-top" href="http://localhost/Magento2/">
+                    Home
+                </a>
+            </li>
+                <li  class="level0 nav-1 category-item first level-top parent"><a href="http://localhost/Magento2/chargers.html"  class="level-top" ><span>Chargers</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first parent"><a href="http://localhost/Magento2/chargers/portable-power-banks.html" ><span>Portable Power Banks</span></a><ul class="level1 submenu"><li  class="level2 nav-1-1-1 category-item first"><a href="http://localhost/Magento2/chargers/portable-power-banks/wired.html" ><span>Wired</span></a></li><li  class="level2 nav-1-1-2 category-item last"><a href="http://localhost/Magento2/chargers/portable-power-banks/wireless.html" ><span>Wireless</span></a></li></ul></li><li  class="level1 nav-1-2 category-item parent"><a href="http://localhost/Magento2/chargers/chargers-power-adapters.html" ><span>Chargers &amp; Power Adapters</span></a><ul class="level1 submenu"><li  class="level2 nav-1-2-1 category-item first"><a href="http://localhost/Magento2/chargers/chargers-power-adapters/wired.html" ><span>Wired</span></a></li><li  class="level2 nav-1-2-2 category-item last"><a href="http://localhost/Magento2/chargers/chargers-power-adapters/wireless.html" ><span>Wireless</span></a></li></ul></li><li  class="level1 nav-1-3 category-item last"><a href="http://localhost/Magento2/chargers/cable.html" ><span>Cable</span></a></li></ul></li><li  class="level0 nav-2 category-item level-top parent"><a href="http://localhost/Magento2/headphone.html"  class="level-top" ><span>Headphone</span></a><ul class="level0 submenu"><li  class="level1 nav-2-1 category-item first"><a href="http://localhost/Magento2/headphone/wired.html" ><span>Wired</span></a></li><li  class="level1 nav-2-2 category-item last"><a href="http://localhost/Magento2/headphone/wireless.html" ><span>Wireless</span></a></li></ul></li><li  class="level0 nav-3 category-item level-top"><a href="http://localhost/Magento2/smart-watches.html"  class="level-top" ><span>Smart Watches</span></a></li><li  class="level0 nav-4 category-item last level-top"><a href="http://localhost/Magento2/cases-holsters.html"  class="level-top" ><span>Cases &amp; Holsters</span></a></li>    </ul>
+</nav>
+<style>
+.navigation .level0 .submenu li.parent > a::after {
+    display:none;
+}
+</style>";}

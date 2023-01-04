@@ -1,0 +1,443 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1672842739;s:6:"expire";i:1672929139;s:4:"tags";s:33:"8ed_CAT_P,8ed_BLOCK_HTML,8ed_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:11:{s:44:"XK9+Ft4p7Rp4ErvGmDt8GG1RIVcF019hez95yIFzAds=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"/+VlJ79h1SJsHj7+aKKRCBjD00DTjOvo2FL8HOvCJ9w=";s:6:"sha256";s:44:"ZtCI9H0PAbJNULkldeeZrgEI5OlfdlGnGVcM2CVSl1I=";s:6:"sha256";s:44:"gTtfBxiZGhAchU3KQKXZJEUdz3cjqchLxo/wePpDUwg=";s:6:"sha256";s:44:"Hbt28DNicPgPJrwV1iYbwICIlXNu/vve6vs7tq9TZ7k=";s:6:"sha256";s:44:"sKv1Y1hWu3vQf8v1ecWg/30lT/A6Zvgqkjujz53VM64=";s:6:"sha256";s:44:"m0s9ZWS78sqPf0WCBSGIazvgxb8Vx6Z3FGyAs7a65s4=";s:6:"sha256";s:44:"3vOJnfz8o5DayGlLQiKsA0fkrgIel4Wsq2ARSNdAI9s=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:5:{s:44:"GSdUvGojVweT4KWERTS+E812cqzy3eJ+Q5L87w9lKHw=";s:6:"sha256";s:44:"niz2BkHo70J/JRygfQOSIpTJWicQZWEG8cyUaFIixUo=";s:6:"sha256";s:44:"gmkmCkUpXUdyQtIRsEGY+EjaCPVORlASuvY+FDff01E=";s:6:"sha256";s:44:"wq2z0uYQgjXjwBgu3IghvEZC0Z+gkdStFgtI9TSGrnc=";s:6:"sha256";s:44:"iPhGwraAoYVRRmQ5R84aUW8hnBOkRgQ2t+sdfwjd128=";s:6:"sha256";}}}s:4:"html";s:31369:"
+    <div class="block-title-main">
+        <h2 role="heading" aria-level="2">New Products</h2>
+        <div class="title-border"></div>
+    </div>
+    <div style="margin-bottom: 0;float: left;width:100%;" class="pad-main-bottom block widget block-new-products grid">
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol style="margin: 30px 0 0;" class="product-items widget-new-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <div class="product-img-block">
+                                <a href="http://localhost/Magento2/galaxy-watch5-golf-edition.html" class="product-item-photo">
+                                    <span class="product-image-container product-image-container-71">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/Magento2/pub/media/catalog/product\cache\55c867d025e2be658b8adcfd447f4b4c\//7/2/72.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Galaxy&#x20;Watch5&#x20;Golf&#x20;Edition"/></span>
+</span>
+<style>.product-image-container-71 {
+    width: 300px;
+}
+.product-image-container-71 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-71");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-71  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                    <div class="pro-overlay"></div>
+                                </a>
+
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost\/Magento2\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM%2C\/product\/71\/","data":{"product":"71","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/wishlist\/index\/add\/","data":{"product":71,"uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/catalog\/product_compare\/add\/","data":{"product":"71","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Galaxy Watch5 Golf Edition"
+                                       href="http://localhost/Magento2/galaxy-watch5-golf-edition.html"
+                                       class="product-item-link">
+                                        Galaxy Watch5 Golf Edition                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="71" data-price-box="product-id-71">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-71-widget-new-grid"                data-price-amount="94.99"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$94.99</span></span>
+        </span>
+
+</div>
+                                                                                                                                </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <div class="product-img-block">
+                                <a href="http://localhost/Magento2/galaxy-watch5.html" class="product-item-photo">
+                                    <span class="product-image-container product-image-container-73">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/Magento2/pub/media/catalog/product\cache\55c867d025e2be658b8adcfd447f4b4c\//7/4/74.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Galaxy&#x20;Watch5"/></span>
+</span>
+<style>.product-image-container-73 {
+    width: 300px;
+}
+.product-image-container-73 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-73");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-73  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                    <div class="pro-overlay"></div>
+                                </a>
+
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost\/Magento2\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM%2C\/product\/73\/","data":{"product":"73","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/wishlist\/index\/add\/","data":{"product":73,"uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/catalog\/product_compare\/add\/","data":{"product":"73","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Galaxy Watch5"
+                                       href="http://localhost/Magento2/galaxy-watch5.html"
+                                       class="product-item-link">
+                                        Galaxy Watch5                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="73" data-price-box="product-id-73">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-73-widget-new-grid"                data-price-amount="134.99"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$134.99</span></span>
+        </span>
+
+</div>
+                                                                                                                                </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <div class="product-img-block">
+                                <a href="http://localhost/Magento2/fitbit-sense-2-smartwatch.html" class="product-item-photo">
+                                    <span class="product-image-container product-image-container-75">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/Magento2/pub/media/catalog/product\cache\55c867d025e2be658b8adcfd447f4b4c\//7/6/76.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Fitbit&#x20;Sense&#x20;2&#x20;Smartwatch"/></span>
+</span>
+<style>.product-image-container-75 {
+    width: 300px;
+}
+.product-image-container-75 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-75");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-75  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                    <div class="pro-overlay"></div>
+                                </a>
+
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost\/Magento2\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM%2C\/product\/75\/","data":{"product":"75","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/wishlist\/index\/add\/","data":{"product":75,"uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/catalog\/product_compare\/add\/","data":{"product":"75","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fitbit Sense 2 Smartwatch"
+                                       href="http://localhost/Magento2/fitbit-sense-2-smartwatch.html"
+                                       class="product-item-link">
+                                        Fitbit Sense 2 Smartwatch                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="75" data-price-box="product-id-75">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-75-widget-new-grid"                data-price-amount="229.95"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$229.95</span></span>
+        </span>
+
+</div>
+                                                                                                                                </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <div class="product-img-block">
+                                <a href="http://localhost/Magento2/fitbitinspire-3.html" class="product-item-photo">
+                                    <span class="product-image-container product-image-container-77">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/Magento2/pub/media/catalog/product\cache\55c867d025e2be658b8adcfd447f4b4c\//7/8/78.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Fitbit&#xA0;Inspire&#x20;3"/></span>
+</span>
+<style>.product-image-container-77 {
+    width: 300px;
+}
+.product-image-container-77 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-77");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-77  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                    <div class="pro-overlay"></div>
+                                </a>
+
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost\/Magento2\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM%2C\/product\/77\/","data":{"product":"77","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/wishlist\/index\/add\/","data":{"product":77,"uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/catalog\/product_compare\/add\/","data":{"product":"77","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fitbit Inspire 3"
+                                       href="http://localhost/Magento2/fitbitinspire-3.html"
+                                       class="product-item-link">
+                                        Fitbit Inspire 3                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="77" data-price-box="product-id-77">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-77-widget-new-grid"                data-price-amount="79.95"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$79.95</span></span>
+        </span>
+
+</div>
+                                                                                                                                </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <div class="product-img-block">
+                                <a href="http://localhost/Magento2/fitbit-luxe-tracker.html" class="product-item-photo">
+                                    <span class="product-image-container product-image-container-79">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/Magento2/pub/media/catalog/product\cache\55c867d025e2be658b8adcfd447f4b4c\//8/0/80.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Fitbit&#x20;Luxe&#x20;Tracker"/></span>
+</span>
+<style>.product-image-container-79 {
+    width: 300px;
+}
+.product-image-container-79 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-79");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-79  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                    <div class="pro-overlay"></div>
+                                </a>
+
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost\/Magento2\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM%2C\/product\/79\/","data":{"product":"79","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/wishlist\/index\/add\/","data":{"product":79,"uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost\/Magento2\/catalog\/product_compare\/add\/","data":{"product":"79","uenc":"aHR0cDovL2xvY2FsaG9zdC9NYWdlbnRvMi8_cGV0ZW9yPTImcHJyaHpsPTM,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fitbit Luxe Tracker"
+                                       href="http://localhost/Magento2/fitbit-luxe-tracker.html"
+                                       class="product-item-link">
+                                        Fitbit Luxe Tracker                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="79" data-price-box="product-id-79">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-79-widget-new-grid"                data-price-amount="99.95"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$99.95</span></span>
+        </span>
+
+</div>
+                                                                                                                                </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+            
+        <div class="pager">
+    
+                <p class="toolbar-amount">
+            <span class="toolbar-number">
+                            Items 6 to 10 of 20 total                        </span>
+        </p>
+        
+                <div class="pages">
+            <strong class="label pages-label" id="paging-label">Page</strong>
+            <ul class="items pages-items" aria-labelledby="paging-label">
+                            <li class="item pages-item-previous">
+                                        <a class="action&#x20; previous"
+                       href="http://localhost/Magento2/?prrhzl=3"
+                       title="Previous">
+                        <span class="label">Page</span>
+                        <span>Previous</span>
+                    </a>
+                </li>
+            
+            
+            
+                                                <li class="item">
+                        <a href="http://localhost/Magento2/?prrhzl=3" class="page">
+                            <span class="label">Page</span>
+                            <span>1</span>
+                        </a>
+                    </li>
+                                                                <li class="item current">
+                        <strong class="page">
+                            <span class="label">You&#039;re currently reading page</span>
+                            <span>2</span>
+                        </strong>
+                    </li>
+                                                                <li class="item">
+                        <a href="http://localhost/Magento2/?peteor=3&amp;prrhzl=3" class="page">
+                            <span class="label">Page</span>
+                            <span>3</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="http://localhost/Magento2/?peteor=4&amp;prrhzl=3" class="page">
+                            <span class="label">Page</span>
+                            <span>4</span>
+                        </a>
+                    </li>
+                            
+            
+            
+                            <li class="item pages-item-next">
+                                        <a class="action  next"
+                       href="http://localhost/Magento2/?peteor=3&amp;prrhzl=3"
+                       title="Next">
+                        <span class="label">Page</span>
+                        <span>Next</span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+        
+    
+        </div>
+    
+        </div>
+    </div>
+";}

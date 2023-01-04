@@ -1,0 +1,13 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1672842740;s:6:"expire";i:1672929140;s:4:"tags";s:46:"8ed_BLOCK_HTML,8ed_CAT_P_95,8ed_CAT_P,8ed_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:16:{s:44:"XK9+Ft4p7Rp4ErvGmDt8GG1RIVcF019hez95yIFzAds=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"/+VlJ79h1SJsHj7+aKKRCBjD00DTjOvo2FL8HOvCJ9w=";s:6:"sha256";s:44:"ZtCI9H0PAbJNULkldeeZrgEI5OlfdlGnGVcM2CVSl1I=";s:6:"sha256";s:44:"gTtfBxiZGhAchU3KQKXZJEUdz3cjqchLxo/wePpDUwg=";s:6:"sha256";s:44:"Hbt28DNicPgPJrwV1iYbwICIlXNu/vve6vs7tq9TZ7k=";s:6:"sha256";s:44:"sKv1Y1hWu3vQf8v1ecWg/30lT/A6Zvgqkjujz53VM64=";s:6:"sha256";s:44:"m0s9ZWS78sqPf0WCBSGIazvgxb8Vx6Z3FGyAs7a65s4=";s:6:"sha256";s:44:"3vOJnfz8o5DayGlLQiKsA0fkrgIel4Wsq2ARSNdAI9s=";s:6:"sha256";s:44:"LlyN0wpOU3tG/EwuZs6Ksx4sB9GyXBERMXA9L9EaBPE=";s:6:"sha256";s:44:"6jC+hCNJrsV5v9HXc22rigUQsbR7QYdWfLMeL8pP4Ic=";s:6:"sha256";s:44:"fVcZJH0y5emSvy8Kr/mTTl6+TuEffPY806yEIZUmrYU=";s:6:"sha256";s:44:"b7jStxguN5lURBtgdjn2dPcCZeiELO1Q9icDcuaZzgs=";s:6:"sha256";s:44:"oNBe6EM4V2aAqaYUz//UbG/d0T5905VKu4/EgTIuG1I=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"GSdUvGojVweT4KWERTS+E812cqzy3eJ+Q5L87w9lKHw=";s:6:"sha256";s:44:"niz2BkHo70J/JRygfQOSIpTJWicQZWEG8cyUaFIixUo=";s:6:"sha256";s:44:"gmkmCkUpXUdyQtIRsEGY+EjaCPVORlASuvY+FDff01E=";s:6:"sha256";s:44:"wq2z0uYQgjXjwBgu3IghvEZC0Z+gkdStFgtI9TSGrnc=";s:6:"sha256";s:44:"iPhGwraAoYVRRmQ5R84aUW8hnBOkRgQ2t+sdfwjd128=";s:6:"sha256";s:44:"3zNagWFOWzEfbnxISySdMiOY0otLRAo+MEuOU4dZNYw=";s:6:"sha256";s:44:"A99syNzzWTqyMJmlXhFRvRUrndHR2Nb/JWeLhiGbfd4=";s:6:"sha256";s:44:"Lk2Om5WMTSpMCKjEH7O3TAzZV71P9kjWs1WCvibd72c=";s:6:"sha256";s:44:"tgY8BPqE/Zpm/OldhSGhXYQvYLHwNuuy/HbbRPSLy9c=";s:6:"sha256";s:44:"HzuVf5F4ud3V2odq1HX3F5Pj+5oaq5JBW0pqus6pDpc=";s:6:"sha256";}}}s:4:"html";s:429:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="95" data-price-box="product-id-95">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-95-widget-product-grid"                data-price-amount="29.95"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$29.95</span></span>
+        </span>
+
+</div>";}
